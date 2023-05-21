@@ -1,0 +1,15 @@
+D:\VerificationWork\bin\Debug\net7.0\VerificationWork.exe
+D:\VerificationWork\bin\Debug\net7.0\VerificationWork.deps.json
+D:\VerificationWork\bin\Debug\net7.0\VerificationWork.runtimeconfig.json
+D:\VerificationWork\bin\Debug\net7.0\VerificationWork.dll
+D:\VerificationWork\bin\Debug\net7.0\VerificationWork.pdb
+D:\VerificationWork\obj\Debug\net7.0\VerificationWork.csproj.AssemblyReference.cache
+D:\VerificationWork\obj\Debug\net7.0\VerificationWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\VerificationWork\obj\Debug\net7.0\VerificationWork.AssemblyInfoInputs.cache
+D:\VerificationWork\obj\Debug\net7.0\VerificationWork.AssemblyInfo.cs
+D:\VerificationWork\obj\Debug\net7.0\VerificationWork.csproj.CoreCompileInputs.cache
+D:\VerificationWork\obj\Debug\net7.0\VerificationWork.dll
+D:\VerificationWork\obj\Debug\net7.0\refint\VerificationWork.dll
+D:\VerificationWork\obj\Debug\net7.0\VerificationWork.pdb
+D:\VerificationWork\obj\Debug\net7.0\VerificationWork.genruntimeconfig.cache
+D:\VerificationWork\obj\Debug\net7.0\ref\VerificationWork.dll
